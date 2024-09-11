@@ -15,6 +15,6 @@ template:
       app: nginx 
 spec: 
    containers: 
-      - name: proj3
+      -name: proj3
       image: jananisrisambantham2001/project3
-      - containerPort: 80 
+      -containerPort: 80 
